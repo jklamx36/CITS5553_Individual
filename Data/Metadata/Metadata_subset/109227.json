@@ -1,0 +1,30 @@
+{
+    "Keyworded": "1",
+    "Period_From": "4/05/2011",
+    "Period_To": "2/05/2016",
+    "ProjectName": "Jackson Range",
+    "ReportDate": "30/06/2016",
+    "ReportTitle": "Partial Surrender E77/1740 for the period 04/05/2011 to 02/05/2016",
+    "ReportType": "2",
+    "SHORT_ABSTRACT": "",
+    "SUBMIT_DATE": "00:00.0",
+    "TENEMENT_LOCATION": "SHAPED",
+    "figure_caption_files": [
+        "a109227_160502 - yi1740e_map_vps_7blk.json",
+        "a109227_160620 - yi1740e_map2.json",
+        "a109227_a109227_v1_report.json",
+        "a109227_yi1740e_map_geology_1-250k.json"
+    ],
+    "full_text_files": [
+        "a109227_160502 - yi1740e_map_vps_7blk.json",
+        "a109227_160620 - yi1740e_map2.json",
+        "a109227_a109227_v1_report.json",
+        "a109227_yi1740e_map_geology_1-250k.json"
+    ],
+    "pdf_files": [
+        "a109227_160502 - yi1740e_map_vps_7blk.pdf",
+        "a109227_160620 - yi1740e_map2.pdf",
+        "a109227_a109227_v1_report.pdf",
+        "a109227_yi1740e_map_geology_1-250k.pdf"
+    ]
+}

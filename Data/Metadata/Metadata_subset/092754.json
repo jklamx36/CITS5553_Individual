@@ -1,0 +1,24 @@
+{
+    "Keyworded": "1",
+    "Period_From": "29/11/2010",
+    "Period_To": "28/11/2011",
+    "ProjectName": "Doolgunna",
+    "ReportDate": "1/02/2011",
+    "ReportTitle": "Doolgunna E51/1322 Annual Report for the period 29 November 2010 \u2013 28 November 2011",
+    "ReportType": "1",
+    "SHORT_ABSTRACT": "Geochem file to be uploaded in A92755 A92756 A92757 A92758",
+    "SUBMIT_DATE": "00:00.0",
+    "TENEMENT_LOCATION": "SHAPED",
+    "figure_caption_files": [
+        "a092754_e51_1322_doolgunna_ar_nov_2011_16075807.json",
+        "a092754_verification report_e51_1322_2011_ar_16072417.json"
+    ],
+    "full_text_files": [
+        "a092754_e51_1322_doolgunna_ar_nov_2011_16075807.json",
+        "a092754_verification report_e51_1322_2011_ar_16072417.json"
+    ],
+    "pdf_files": [
+        "a092754_e51_1322_doolgunna_ar_nov_2011_16075807.pdf",
+        "a092754_verification report_e51_1322_2011_ar_16072417.pdf"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Keyworded": "1",
+    "Period_From": "7/05/2013",
+    "Period_To": "15/03/2016",
+    "ProjectName": "Mount Vernon North",
+    "ReportDate": "18/05/2016",
+    "ReportTitle": "E52/2856 (Mt Vernon North) Final Surrender Report for the period 07/05/2013 to 15/03/2016",
+    "ReportType": "3",
+    "SHORT_ABSTRACT": "",
+    "SUBMIT_DATE": "00:00.0",
+    "TENEMENT_LOCATION": "SHAPED",
+    "figure_caption_files": [
+        "a108877_a108877_v1_report.json",
+        "a108877_attachmenta_e52_2856 tenure location map.json",
+        "a108877_attachmentb_e52_2856 tectonics map.json",
+        "a108877_attachmentc_e52_2856 regional geology map.json",
+        "a108877_attachmentd_e52_2856 exploration index map.json"
+    ],
+    "full_text_files": [
+        "a108877_a108877_v1_report.json",
+        "a108877_attachmenta_e52_2856 tenure location map.json",
+        "a108877_attachmentb_e52_2856 tectonics map.json",
+        "a108877_attachmentc_e52_2856 regional geology map.json",
+        "a108877_attachmentd_e52_2856 exploration index map.json"
+    ],
+    "pdf_files": [
+        "a108877_a108877_v1_report.pdf",
+        "a108877_attachmenta_e52_2856 tenure location map.pdf",
+        "a108877_attachmentb_e52_2856 tectonics map.pdf",
+        "a108877_attachmentc_e52_2856 regional geology map.pdf",
+        "a108877_attachmentd_e52_2856 exploration index map.pdf"
+    ]
+}
